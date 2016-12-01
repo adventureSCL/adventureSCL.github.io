@@ -3,10 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
-
+name: 心鉴
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 以铜为鉴，可以正衣冠，以人为鉴，可以知得失，以史为鉴，可以知兴替
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
